@@ -5,14 +5,15 @@
  
  ## :octocat: About Me:
  - :lady_beetle: I’m currently Software QA Tester at [TGLab](https://tglab.com/)
-  - :rocket: I'm currently learning JavaScript
-  - :repeat_one: I'm interested automation testing. So, I started the running API automated tests using Cypress.io
+ - :rocket: I'm currently learning JavaScript
+ - :repeat_one: I'm interested automation testing. So, I started the running API automated tests using Cypress.io
   
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
 
-#### See my top languages
 <img src="https://github-readme-stats.vercel.app/api?username=aliluzu&&theme=default &show_icons=true"/> 
  
-#### View my stats on Github
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliluzu&&theme=default&show_icons=true"")](https://github.com/aliluzu/github-readme-stats)
 
  
