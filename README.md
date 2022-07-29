@@ -15,14 +15,14 @@
  - :rocket: Learning programming language like JS, Python. 💣 It's a challenge for me.  
  - 💫 Always find ways to challenge myself
   
-**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github** 
+**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> View my stats on Github** 
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aliluzu&show_icons=true&theme=default" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliluzu&theme=default" />
+	<img width="38%" src="https://github-readme-stats.vercel.app/api?username=aliluzu&show_icons=true&theme=default" />
+	<img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliluzu&theme=default" />
 </p>
  
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> See my top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliluzu&&theme=default&show_icons=true"")](https://github.com/aliluzu/github-readme-stats)
 
