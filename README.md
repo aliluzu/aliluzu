@@ -7,8 +7,25 @@
  - :lady_beetle: I’m currently Software QA Tester at [TGLab](https://tglab.com/)
   - :rocket: I'm currently learning JavaScript
   - :repeat_one: I'm interested automation testing. So, I started the running API automated tests using Cypress.io
+  
+
+#### See my top languages
+<img src="https://github-readme-stats.vercel.app/api?username=aliluzu&&theme=default &show_icons=true"/> 
  
+#### View my stats on Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliluzu&&theme=default&show_icons=true"")](https://github.com/aliluzu/github-readme-stats)
 
+ 
+## ☁️ Soft Skills
+- 🐒 🐒🐒Teamwork and communication
+- :surfing_woman: Self-learning
+- :male_detective: Know how to Google
+- :scream_cat: Creative problem solving
 
+## 🔪 Hard Skills & Tools
 
- <img src="https://github-readme-stats.vercel.app/api?username=aliluzu&&show_icons-true&title_color=ffffff&icon_color==bb2acf&text_color=daf7dc&bg_color=191919"/>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
