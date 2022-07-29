@@ -1,7 +1,14 @@
-<h2 align="center">
-  Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" height="40" />
-  I'm Alina Zhuravskaja
- </h2>
+### Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" height="40" />I'm Alina Zhuravskaja
+  
+ <a target="_blank" href="https://www.linkedin.com/in/alinazhu0103/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="mailto:alinazhuravskaja@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</br>
+
+---
  
 **:octocat: About Me:**
  - :lady_beetle: I’m currently Software QA Tester at [TGLab](https://tglab.com/)
@@ -10,7 +17,10 @@
   
 **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github** 
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliluzu&&theme=default &show_icons=true"/> 
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aliluzu&show_icons=true&theme=default" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliluzu&theme=default" />
+</p>
  
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my top languages
 
