@@ -5,8 +5,8 @@
  
 **:octocat: About Me:**
  - :lady_beetle: I’m currently Software QA Tester at [TGLab](https://tglab.com/)
- - :rocket: I'm currently learning JavaScript
- - :repeat_one: I'm interested automation testing. So, I started the running API automated tests using Cypress.io
+ - :rocket: Learning programming language like JS, Python. 💣 It's a challenge for me.  
+ - 💫 Always find ways to challenge myself
   
 **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github** 
 
