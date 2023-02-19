@@ -11,7 +11,7 @@
 ---
  
 **:octocat: About Me:**
- - :lady_beetle: I’m currently Software QA Tester at [TGLab](https://tglab.com/)
+ - :lady_beetle: I’m currently Software QA Tester at [Kickertech](https://kickertech.com/)
  - :rocket: Learning programming language like JS, Python. 💣 It's a challenge for me.  
  - 💫 Always find ways to challenge myself
   
